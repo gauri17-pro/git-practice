@@ -1,2 +1,1 @@
-Hello World!
-Welcome to the world of DevOps!
+Code With Gauri is a good youtube channel for DevOps!
