@@ -1,2 +1,3 @@
 Code With Gauri is a good youtube channel for DevOps!
+DevOps is Development + Operations 
 Everyone should learn DevOps in 2026!
